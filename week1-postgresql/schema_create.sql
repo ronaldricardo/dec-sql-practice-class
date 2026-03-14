@@ -1,0 +1,10 @@
+-- week1-postgresql/schema_create.sql
+
+-- Tabel dibuat melalui DBeaver import (CSV/sample data)
+-- Tidak dibuat dengan CREATE TABLE manual di SQL.
+--
+-- Tabel yang tersedia:
+-- - fitness_trackers
+-- - trackers_detail
+--
+-- File SQL di folder ini hanya untuk latihan query (SELECT, JOIN, GROUP BY, dll).
