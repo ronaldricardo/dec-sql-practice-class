@@ -62,8 +62,7 @@ BULK INSERT supermarket FROM 'C:\temp\supermarket.csv';
 **CROSS-ENGINE:** PostgreSQL ↔ BigQuery ↔ SQL Server
 
 ## 👤 Author
-**Ronald Ricardo**  
-📍 Balikpapan, East Kalimantan, ID  
+**Ronald Ricardo Tambunan**  
 💼 [LinkedIn](https://linkedin.com/in/ronaldrt) | 📧 [rricardot7@gmail.com](mailto:rricardot7@gmail.com)
 
 ---
