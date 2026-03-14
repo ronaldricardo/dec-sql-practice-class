@@ -46,14 +46,18 @@ In‑live SQL basic–advanced practice from **Data Enthusiast Community (DEC)**
 
 ## 🚀 Quick Start Guide
 
-**PostgreSQL (Week 1):**  
-COPY fitness_trackers FROM '/path/to/fitness_trackers.csv' WITH CSV HEADER;
+**PostgreSQL (Week 1):**
+1. Download `fitness_trackers.csv` dari folder dataset/
+2. Import ke DBeaver/PostgreSQL
+3. Run `schema_create.sql` → Practice queries
 
-**BigQuery (Week 2):**  
-SELECT * FROM `your-project.dataset.supermarket` LIMIT 10;
+**BigQuery (Week 2):**
+1. Upload `supermarket.csv` ke BigQuery
+2. Run `bqsimple_query.sql` & `bqadvance_query.sql`
 
-**SQL Server (Week 3):**  
-BULK INSERT supermarket FROM 'C:\temp\supermarket.csv';
+**SQL Server (Week 3):**
+1. SSMS → Import `supermarket.csv` 
+2. Run `sqlserver_simple_query.sql` → CREATE VIEW
 
 ## 🎯 Skills Demonstrated
 **BASIC:** SELECT, WHERE, GROUP BY, ORDER BY, LIMIT  
