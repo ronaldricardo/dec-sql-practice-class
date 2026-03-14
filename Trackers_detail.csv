@@ -1,0 +1,79 @@
+id_model,brand_name,device_type,model_name,color,selling_price,original_price,display,rating,strap_material,average_battery_life_days,reviews,sold
+8,Xiaomi,Smartwatch,Revolve,Black,12349,15999,AMOLED Display,4.4,Silicone,14,2,100
+9,Xiaomi,Smartwatch,RevolveActive,Black,12999,15999,AMOLED Display,4.4,Silicone,14,3,120
+74,Honor,FitnessBand,Band 6,"Sandstone Grey, Meteorite Black, Coral Pink, ",2999,5999,AMOLED Display,4.3,Plastic,14,6568,140
+75,Honor,FitnessBand,Band 4,"Meteorite Black, Midnight Navy",2700,2999,AMOLED Display,4.4,Plastic,7,17809,160
+76,Honor,FitnessBand,Band 3,Dynamic Orange,2499,2999,AMOLED Display,4.3,Plastic,7,23426,180
+77,Honor,FitnessBand,Band 5i,Black,2469,2999,LCD Display,4.2,Plastic,7,4628,200
+78,Honor,FitnessBand,Band 3,Navy Blue,2499,2999,PMOLED Display,4.3,Plastic,7,23426,220
+79,Honor,FitnessBand,Band 5,Black,2899,2999,AMOLED Display,4.4,Plastic,14,4628,240
+80,Honor,FitnessBand,Band 5,Black,2099,2999,AMOLED Display,4.4,Plastic,14,4628,260
+81,Honor,FitnessBand,Band 5,Olive Green,2199,2999,AMOLED Display,4.4,Plastic,14,4628,280
+82,Honor,FitnessBand,Band 4,Black,2599,2999,AMOLED Display,4.4,Plastic,7,17809,300
+83,Honor,FitnessBand,Band 5i,Black,1799,2999,LCD Display,4.2,Plastic,14,4628,320
+84,Honor,FitnessBand,band 4 running,Black,1649,2000,AMOLED Display,3.2,Plastic,7,4628,340
+85,Honor,FitnessBand,Band Z1,Black,5499,5499,AMOLED Display,3.9,Plastic,14,77,360
+86,Honor,FitnessBand,Band 3,Black,4750,5499,OLED Display,4.3,Plastic,7,122,380
+95,Oppo,Smartwatch,46 mm,"Black, Gold",14990,19990,AMOLED Display,3.9,Rubber,14,484,400
+97,realme,Smartwatch,2 Pro,Grey,4999,5999,AMOLED Display,4.4,Silicone,14,338,420
+98,realme,Smartwatch,2S,Black,3499,3999,AMOLED Display,4.2,Silicone,7,928,420
+99,realme,Smartwatch,S,"Black, White",4999,7999,AMOLED Display,4.3,Silicone,14,4142,460
+101,realme,Smartwatch,S Pro,Black,9999,12999,AMOLED Display,4.1,Silicone,14,259,480
+111,boAt,Smartwatch,Storm,"Black, Teal Green, Grey",2999,5990,LCD Display,4.1,Thermoplastic polyurethane,7,1070,500
+112,boAt,Smartwatch,Xplorer,"Black, Red, Blue",3499,7990,LCD Display,3.8,Thermoplastic polyurethane,10,23069,520
+113,boAt,Smartwatch,Delta,"Black, Grey, Red",2499,5990,LCD Display,3.6,Silicone,7,529,520
+114,boAt,Smartwatch,O2,"Black, Green",7990,7990,LCD Display,4.1,Thermoplastic polyurethane,10,20122,560
+132,Honor,Smartwatch,Z1,Black,5499,5499,OLED Display,3.1,Silicone,14,102,580
+133,Honor,Smartwatch,GS Pro,Black,13999,20999,AMOLED Display,4.4,Nylon,25,215,600
+134,Honor,Smartwatch,GS Pro,Blue,17999,20999,AMOLED Display,4.4,Nylon,25,215,620
+135,Honor,Smartwatch,Watch Magic,Black,7999,17999,AMOLED Display,4.3,Silicone,7,281,640
+136,Honor,Smartwatch,Magic Watch 2,Brown,13999,15999,AMOLED Display,4.4,Leather,14,1663,660
+137,Honor,Smartwatch,Watch ES,"Black, Pink",4999,10999,AMOLED Display,4.3,Silicone,10,354,680
+138,Honor,Smartwatch,Magic Watch,Brown,9047,17999,AMOLED Display,4.3,Silicone,7,281,700
+139,huami,Smartwatch,Amazfit GTS,Beige,5499,12999,AMOLED Display,4.3,Silicone,14,1907,720
+140,huami,Smartwatch,Amazfit GTS,Black,5299,12999,AMOLED Display,4.3,Silicone,14,1907,740
+141,huami,Smartwatch,Amazfit GTS,Pink,5999,12999,AMOLED Display,4.3,Silicone,14,1907,760
+142,huami,Smartwatch,Amazfit GTS,Blue,5499,12999,AMOLED Display,4.3,Silicone,14,1907,780
+143,huami,Smartwatch,Amazfit Bip U,"Black, Pink",2999,5999,AMOLED Display,4.2,Silicone,9,1334,800
+144,huami,Smartwatch,Amazfit Bip S Lite,Black,1999,4999,AMOLED Display,3.9,Silicone,14,849,820
+145,huami,Smartwatch,Amazfit T-Rex,"Green, Grey",5999,10999,AMOLED Display,4.3,Silicone,20,359,840
+146,huami,Smartwatch,Amazfit GTS 2e,Purple,7999,13999,AMOLED Display,4.2,Silicone,14,294,860
+147,huami,Smartwatch,Amazfit GTR 2 Aluminium,"Black, Red",11999,17999,AMOLED Display,4.1,Silicone,10,647,880
+148,huami,Smartwatch,Amazfit GTS 2,Black,11999,17999,AMOLED Display,4.1,Silicone,7,153,900
+149,huami,Smartwatch,Amazfit GTR 2 Stainless Steel,"Grey, Blue",12499,17999,AMOLED Display,4.1,Silicone,10,647,920
+150,huami,Smartwatch,Amazfit Bip,Black,5499,6999,AMOLED Display,4.2,Silicone,28,4651,940
+151,huami,Smartwatch,Amazfit GTR 42 mm Glitter,White,9999,16999,AMOLED Display,4.2,Silicone,12,3,960
+152,huami,Smartwatch,Amazfit Neo,Black,2499,3999,AMOLED Display,4.2,Thermoplastic polyurethane,7,176,980
+153,huami,Smartwatch,Amazfit Bip S,Black,5299,6499,AMOLED Display,4,Thermoplastic polyurethane,15,489,1000
+156,huami,Smartwatch,Amazfit GTR 42,Red,9999,12999,AMOLED Display,4.3,Silicone,12,146,1020
+158,huami,Smartwatch,Amazfit Bip S,Red,2999,4999,AMOLED Display,3.9,Thermoplastic polyurethane,15,489,1040
+159,huami,Smartwatch,Amazfit Bip S,"Green, Grey",3799,4999,AMOLED Display,3.9,Thermoplastic polyurethane,15,489,1060
+160,huami,Smartwatch,Amazfit Bip,Pink,5499,5990,AMOLED Display,4.2,Silicone,28,489,1080
+161,huami,Smartwatch,Amazfit Bip S,White,4999,5999,AMOLED Display,4,Thermoplastic polyurethane,15,489,1100
+163,huami,Smartwatch,Amazfit GTR 47,Black,8999,13999,AMOLED Display,4.3,Silicone,25,176,1120
+164,huami,Smartwatch,Amazfit Verge,Black,12999,12999,AMOLED Display,4.1,Silicone,25,489,1140
+165,huami,Smartwatch,Amazfit Verge,Black,11999,12999,AMOLED Display,4.1,Silicone,25,489,1160
+166,huami,Smartwatch,Amazfit Verge,Black,5999,8999,AMOLED Display,4.2,Silicone,14,489,1180
+167,huami,Smartwatch,Amazfit Bip,Red,4950,5990,AMOLED Display,4.2,Silicone,28,176,1200
+168,huami,Smartwatch,Amazfit Verge,Black,11999,12999,AMOLED Display,4.1,Silicone,7,176,1220
+169,huami,Smartwatch,Amazfit Bip,Purple,5499,6999,AMOLED Display,4.2,Silicone,28,176,1240
+170,huami,Smartwatch,Amazfit Stratos,Black,12999,15999,AMOLED Display,4.2,Silicone,25,103,1260
+171,huami,Smartwatch,Amazfit Bip Lite,Black,3499,5499,AMOLED Display,4,Thermoplastic polyurethane,7,125,1280
+172,huami,Smartwatch,Amazfit Verge Lite,Black,5999,8999,AMOLED Display,4.2,Silicone,5,136,1300
+173,huami,Smartwatch,Amazfit Bip,Grey,6399,7399,AMOLED Display,4.4,Silicone,28,176,1320
+174,huami,Smartwatch,Bip Lite On,Black,7999,14999,AMOLED Display,4.1,Silicone,7,183,1340
+239,FOSSIL,Smartwatch,Charter Hybrid HR,Gold,13196,16495,AMOLED Display,3.9,Leather,12,4,1360
+243,FOSSIL,Smartwatch,Q Venture,Blue,19999,21995,AMOLED Display,3.8,Leather,1,54,1380
+258,FOSSIL,Smartwatch,Charter Hybrid HR,Black,14021,16495,AMOLED Display,3.9,Leather,12,6,1400
+264,FOSSIL,Smartwatch,Gen 3 Q Venture,"Black, Gold",15396,21995,AMOLED Display,4.3,Stainless Steel,1,7,1400
+270,FOSSIL,Smartwatch,4th Gen Explorist HR,Grey,10998,21995,AMOLED Display,3.9,Stainless Steel,2,600,1400
+273,FOSSIL,Smartwatch,Q Founder 2.0,Black,19995,19995,AMOLED Display,4.2,Stainless Steel,1,61,1460
+276,FOSSIL,Smartwatch,4th Gen Venture HR,Black,17596,21995,AMOLED Display,3.9,Stainless Steel,14,46,1480
+280,FOSSIL,Smartwatch,4th Gen Venture HR,Silver,10997,21995,AMOLED Display,3.9,Stainless Steel,14,46,1500
+288,FOSSIL,Smartwatch,Gen 3 Q Venture,Silver,19995,19995,AMOLED Display,4.3,Stainless Steel,1,78,1520
+292,FOSSIL,Smartwatch,Sport 41,"Blue, Black, Gray",17995,17995,AMOLED Display,4,Silicone,2,55,1540
+301,FOSSIL,Smartwatch,4th Gen Venture HR,Black,13195,21995,AMOLED Display,3.9,Stainless Steel,14,46,1560
+303,FOSSIL,Smartwatch,Charter Hybrid HR,Silver,12396,14995,AMOLED Display,3.9,Leather,12,6,1580
+307,FOSSIL,Smartwatch,Q Founder 2.0,Blue,11397,18995,AMOLED Display,4.1,Stainless Steel,1,61,1600
+337,FOSSIL,Smartwatch,Q Venture,White,4399,21995,AMOLED Display,3.8,Leather,1,46,1620
+343,FOSSIL,Smartwatch,Q Venture,Beige,15995,15995,AMOLED Display,4.6,Leather,1,46,1640
