@@ -21,8 +21,9 @@ dec-sql-practice-class/
 │   ├── practice_basic.sql
 │   └── practice_advanced.sql
 ├── week2-bigquery/
-│   ├── query_simple.sql
-│   └── query_complex.sql
+│   ├── schema-note.md
+│   ├── bqsimple_query.sql
+│   └── bqadvance_query.sql
 └── week3-sqlserver/
     ├── schema_create.sql
     ├── practice_basic.sql
