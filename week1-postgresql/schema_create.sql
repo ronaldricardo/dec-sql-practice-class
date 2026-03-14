@@ -8,3 +8,4 @@
 -- - trackers_detail
 --
 -- File SQL di folder ini hanya untuk latihan query (SELECT, JOIN, GROUP BY, dll).
+-- **NB : Don't run or execute this (Not SQL Query just a information behind schema setup)**
